@@ -1,0 +1,4 @@
+jwt_auth:
+    domain: dev-d4a2w5oz.eu.auth0.com
+    authorized_issuer: https://dev-d4a2w5oz.eu.auth0.com/
+    api_identifier: http://localhost:8000/api
